@@ -4,8 +4,20 @@
 
 >通常被称为数据结构服务器，因为值（value）可以是 字符串(String), 哈希(Map), 列表(list), 集合(sets) 和 有序集合(sorted sets)等类型。
 
+## 基本的数据结构
+
+- String: 字符串
+- Hash: 散列
+- List: 列表
+- Set: 集合
+- Sorted Set: 有序集合
+
+
+## 
+
 
 ## 参考
 - [Github-redis](https://github.com/antirez/redis)
 - [website-redis.io](https://redis.io/)
 - [download](https://redis.io/download)
+- [在线 test](http://try.redis.io/)
