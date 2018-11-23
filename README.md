@@ -34,3 +34,10 @@ windows:
 - [download](https://redis.io/download)
 - [在线 test](http://try.redis.io/)
 - [runoob-redis](http://www.runoob.com/redis/redis-tutorial.html)
+
+- [Redis 设计与实现¶](http://redisbook.com/)
+- [Redis 3.0 源码注释](https://github.com/huangz1990/redis-3.0-annotated)
+- [《如何阅读 Redis 源码》 —](http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html)
+- [《Redis 设计与实现》图片集 ](http://1e-gallery.redisbook.com/)
+- [《Redis 多机特性工作原理简介》](http://www.chinahadoop.cn/course/31)
+- [关于Redis的常识](https://blog.csdn.net/ohmygirl/article/details/44171375)
