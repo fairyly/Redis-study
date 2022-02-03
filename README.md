@@ -7,6 +7,10 @@
 ## Window 下安装
 - 下载地址：[releases](https://github.com/MSOpenTech/redis/releases)。
 
+## redis 桌面客户端
+
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
+
 ## Redis 配置
 Redis 的配置文件位于 Redis 安装目录下，文件名为 redis.conf
 
